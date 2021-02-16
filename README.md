@@ -7,7 +7,7 @@ Path of XML Files: \project\app\src\main\res\layout
 Path of AndroidManifest.xml: \project\app\src\main
 
 # Project Description 
-Our project is a book sale application. There are two types of users. One them is admin, and the other is customer. Admin is able to delete customer, add new book, update book and delete book. Customer is able to see books and add them to the basket and also has settings pages to update his/her information. Also there is a 3D secure page (representation) in the customer side. 
+This project is a book sale application. There are two types of users. One them is admin, and the other is customer. Admin is able to delete customer, add new book, update book and delete book. Customer is able to see books and add them to the basket and also has settings pages to update his/her information. Also there is a 3D secure page (representation) in the customer side. 
 
 # Database Design
 There are two databases on the application. One of them will is keeping customers and one of them is keeping books. Only admin can reach and see all the databases. Admin is able to arrange databases. Customer is able to see only books database. Customer database will keep -username, name, surname, email, password- of customers. Book database will contain –id, author, name, year, type- of book.
