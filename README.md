@@ -4,6 +4,8 @@ Path of Java Files: \project\app\src\main\java\com\example\project
 
 Path of XML Files: \project\app\src\main\res\layout
 
+Path of AndroidManifest.xml: \project\app\src\main
+
 # Project Description 
 Our project is a book sale application. There are two types of users. One them is admin, and the other is customer. Admin is able to delete customer, add new book, update book and delete book. Customer is able to see books and add them to the basket and also has settings pages to update his/her information. Also there is a 3D secure page (representation) in the customer side. 
 
