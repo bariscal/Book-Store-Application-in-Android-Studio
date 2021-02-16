@@ -27,23 +27,42 @@ There are MenuItem in every page to Logout.
 •	Spinner
 
 •	Menu
+
 •	List View
+
 •	Tab Host
+
 •	SQLiteOpenHelper
+
 •	SQLiteDatabase
+
 •	Intent
+
 •	Bundle
+
 •	Toast
+
 •	Cursor
+
 •	Array List
+
 •	Array Adapter
+
 •	Dialog Interface
+
 •	Countdown Timer
+
 •	Date
+
 •	Calendar
+
 •	Time Unit
+
 •	Alert Dialog
+
 •	AppCompat Activity
+
 •	plantUML (for UML diagram)
+
 
 
