@@ -67,5 +67,4 @@ There are MenuItem in every page to Logout.
 •	plantUML (for UML diagram)
 
 # Screenshots
-![alt text](https://github.com/bariscal/Book-Store-Application-in-Android-Studio/blob/main/screenshots/Screenshot_1610542913.png)
-![alt text](https://github.com/bariscal/Book-Store-Application-in-Android-Studio/blob/main/screenshots/Screenshot_1610542946.png)
+https://github.com/bariscal/Book-Store-Application-in-Android-Studio/tree/main/screenshots
