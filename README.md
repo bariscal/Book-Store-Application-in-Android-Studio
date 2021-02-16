@@ -17,10 +17,15 @@ There are MenuItem in every page to Logout.
 
 # Used Tools
 •	Button
+
 •	Text View
+
 •	Edit Text
+
 •	Image View
+
 •	Spinner
+
 •	Menu
 •	List View
 •	Tab Host
